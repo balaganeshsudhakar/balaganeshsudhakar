@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balaganeshsudhakar
+- 👋 Hi, I’m Balaganesh S
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on new topics wrt to data science carrier
